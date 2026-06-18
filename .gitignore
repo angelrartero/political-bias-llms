@@ -1,0 +1,55 @@
+# Credenciales y variables de entorno
+
+.env
+.env.*
+!.env.example
+
+# Python
+
+**pycache**/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Entornos virtuales
+
+.venv/
+venv/
+env/
+
+# Conda
+
+.conda/
+conda-meta/
+
+# Modelos y checkpoints
+
+models/
+checkpoints/
+checkpoint-*/
+wandb/
+runs/
+
+# Datos grandes o regenerables
+
+data/raw/
+data/processed/
+
+# Archivos temporales
+
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Editores
+
+.vscode/
+.idea/
+
+# Sistema operativo
+
+.DS_Store
+Thumbs.db
+desktop.ini

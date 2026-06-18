@@ -1,0 +1,64 @@
+{
+    "model_name": "PeterPanecillo/PlanTL-GOB-ES-roberta-base-bne-copy",
+    "train_path": "C:\\Users\\Cliente\\Desktop\\Universidad\\TFG\\tfg-sesgo-politico\\Nuevo Dataset\\data\\processed\\parliament_ideology_5class\\v2_since_legislature_13_5class\\train_split.csv",
+    "val_path": "C:\\Users\\Cliente\\Desktop\\Universidad\\TFG\\tfg-sesgo-politico\\Nuevo Dataset\\data\\processed\\parliament_ideology_5class\\v2_since_legislature_13_5class\\val_split.csv",
+    "test_path": "C:\\Users\\Cliente\\Desktop\\Universidad\\TFG\\tfg-sesgo-politico\\Nuevo Dataset\\data\\processed\\parliament_ideology_5class\\v2_since_legislature_13_5class\\test_split.csv",
+    "text_col": "text",
+    "label_col": "ideology_5_label",
+    "max_length": 512,
+    "tokenizer_type": "roberta",
+    "model_type": "roberta",
+    "learning_rate": 1.5e-05,
+    "weight_decay": 0.01,
+    "num_train_epochs": 4.0,
+    "train_batch_size": 4,
+    "eval_batch_size": 8,
+    "gradient_accumulation_steps": 4,
+    "warmup_ratio": 0.1,
+    "lr_scheduler_type": "cosine",
+    "max_grad_norm": 1.0,
+    "logging_steps": 100,
+    "save_total_limit": 2,
+    "early_stopping_patience": 2,
+    "seed": 42,
+    "weighted_loss": true,
+    "gradient_checkpointing": true,
+    "warmup_steps": 1532,
+    "fp16": false,
+    "bf16": true,
+    "label_mapping": {
+        "center": 0,
+        "far_left": 1,
+        "far_right": 2,
+        "left": 3,
+        "right": 4
+    },
+    "class_weights": [
+        1.4788025617599487,
+        1.0973128080368042,
+        0.93743497133255,
+        0.8949736952781677,
+        0.8140882253646851
+    ],
+    "train_distribution": {
+        "right": 3762,
+        "left": 3422,
+        "far_right": 3267,
+        "far_left": 2791,
+        "center": 2071
+    },
+    "val_distribution": {
+        "right": 807,
+        "left": 733,
+        "far_right": 700,
+        "far_left": 599,
+        "center": 443
+    },
+    "test_distribution": {
+        "right": 806,
+        "left": 734,
+        "far_right": 700,
+        "far_left": 598,
+        "center": 444
+    }
+}

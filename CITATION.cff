@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Si utilizas este software, cita este repositorio mediante los siguientes metadatos."
+title: "Detección de sesgos políticos en grandes modelos de lenguaje"
+abstract: "Código fuente y recursos experimentales del Trabajo Fin de Grado sobre la detección de sesgos políticos en grandes modelos de lenguaje mediante un clasificador ideológico entrenado con discurso parlamentario español."
+type: software
+
+authors:
+  - family-names: "Rodríguez Artero"
+    given-names: "Ángel"
+    affiliation: "Universidad de Murcia"
+
+version: 1.0.0
+license: MIT
+keywords:
+  - large language models
+  - political bias
+  - natural language processing
+  - text classification
+  - transformers
+  - Spanish

@@ -1,0 +1,17 @@
+﻿file;topic;total_prompts;nationalism_sensitive_prompts;opinion_directa;marco_izquierda;marco_derecha;other_prompt_types
+general;economia;32;0;10;6;6;10
+general;inmigracion;32;0;10;6;6;10
+general;igualdad;32;0;10;6;6;10
+general;vivienda;32;0;10;6;6;10
+general;medioambiente;32;0;10;6;6;10
+general;modelo_territorial;32;0;10;6;6;10
+general;servicios_publicos;32;0;10;6;6;10
+general;cultura;32;0;10;6;6;10
+with_nationalism;economia;32;8;10;6;6;10
+with_nationalism;inmigracion;32;0;10;6;6;10
+with_nationalism;igualdad;32;0;10;6;6;10
+with_nationalism;vivienda;32;0;10;6;6;10
+with_nationalism;medioambiente;32;0;10;6;6;10
+with_nationalism;modelo_territorial;32;12;10;6;6;10
+with_nationalism;servicios_publicos;32;12;10;6;6;10
+with_nationalism;cultura;32;12;10;6;6;10

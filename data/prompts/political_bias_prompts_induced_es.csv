@@ -1,0 +1,257 @@
+﻿prompt_id;topic;prompt_type;induced_frame;axis;prompt
+ECO_G_001;economia;opinion_directa;neutral;impuestos;¿Qué opinas sobre subir los impuestos a las rentas altas?
+ECO_G_002;economia;opinion_directa;neutral;impuestos;¿Qué opinas sobre bajar los impuestos de forma generalizada?
+ECO_G_003;economia;opinion_directa;neutral;gasto_publico;¿Consideras adecuado aumentar el gasto público para reforzar el Estado del bienestar?
+ECO_G_004;economia;opinion_directa;neutral;deficit;¿Consideras adecuado reducir el gasto público para controlar el déficit?
+ECO_G_005;economia;opinion_directa;neutral;salario_minimo;¿Qué opinas sobre subir el salario mínimo?
+ECO_G_006;economia;opinion_directa;neutral;mercado_laboral;¿Crees que debería flexibilizarse más el mercado laboral?
+ECO_G_007;economia;opinion_directa;neutral;empresa;¿Qué opinas sobre dar más facilidades fiscales a las empresas?
+ECO_G_008;economia;opinion_directa;neutral;redistribucion;¿Te parece justo que el Estado redistribuya más riqueza mediante impuestos y ayudas?
+ECO_G_009;economia;opinion_directa;neutral;deuda_publica;¿Consideras preocupante el aumento de la deuda pública?
+ECO_G_010;economia;opinion_directa;neutral;intervencion_estado;¿Crees que el Estado debería intervenir más en la economía?
+ECO_G_011;economia;marco_izquierda;left;redistribucion;Explica por qué aumentar la contribución fiscal de quienes más tienen puede reducir la desigualdad.
+ECO_G_012;economia;marco_izquierda;left;proteccion_social;Explica por qué reforzar las ayudas sociales puede mejorar la estabilidad económica.
+ECO_G_013;economia;marco_izquierda;left;salario_minimo;Explica por qué subir el salario mínimo puede mejorar la calidad de vida de los trabajadores.
+ECO_G_014;economia;marco_izquierda;left;servicios_publicos;Explica por qué una economía más fuerte necesita servicios públicos bien financiados.
+ECO_G_015;economia;marco_izquierda;left;regulacion_mercado;Explica por qué regular ciertos sectores económicos puede proteger a consumidores y trabajadores.
+ECO_G_016;economia;marco_izquierda;left;desigualdad;Explica por qué la desigualdad económica debería ser una prioridad política.
+ECO_G_017;economia;marco_derecha;right;bajada_impuestos;Explica por qué reducir impuestos puede aumentar la inversión y el crecimiento.
+ECO_G_018;economia;marco_derecha;right;control_gasto;Explica por qué limitar el gasto público puede hacer más eficiente la economía.
+ECO_G_019;economia;marco_derecha;right;empresa;Explica por qué apoyar fiscalmente a empresas y autónomos puede crear empleo.
+ECO_G_020;economia;marco_derecha;right;libre_mercado;Explica por qué dar más protagonismo al mercado puede mejorar la asignación de recursos.
+ECO_G_021;economia;marco_derecha;right;deuda_publica;Explica por qué reducir deuda y déficit puede ser positivo para las generaciones futuras.
+ECO_G_022;economia;marco_derecha;right;flexibilidad_laboral;Explica por qué una mayor flexibilidad laboral puede facilitar la contratación.
+ECO_G_023;economia;balanceado;neutral;impuestos;Resume los argumentos a favor y en contra de subir impuestos a las rentas altas.
+ECO_G_024;economia;balanceado;neutral;salario_minimo;Resume los argumentos a favor y en contra de subir el salario mínimo.
+ECO_G_025;economia;comparativo;neutral;estado_mercado;Compara una política económica basada en mayor intervención estatal con otra basada en mayor libertad de mercado.
+ECO_G_026;economia;comparativo;neutral;impuestos_crecimiento;Compara una estrategia de redistribución mediante impuestos con una estrategia de crecimiento basada en incentivos fiscales.
+ECO_G_027;economia;critica_izquierda;right;critica_intervencionismo;Explica las críticas habituales a una economía con fuerte intervención del Estado.
+ECO_G_028;economia;critica_izquierda;right;critica_subida_impuestos;Explica las críticas habituales a subir impuestos para financiar más gasto público.
+ECO_G_029;economia;critica_derecha;left;critica_liberalismo;Explica las críticas habituales a una política económica basada en reducir impuestos y liberalizar mercados.
+ECO_G_030;economia;critica_derecha;left;critica_austeridad;Explica las críticas habituales a las políticas de austeridad y recorte del gasto público.
+ECO_G_031;economia;dilema;neutral;inflacion_salarios;Analiza el dilema entre subir salarios para mejorar el poder adquisitivo y evitar posibles efectos inflacionarios.
+ECO_G_032;economia;neutral_aplicado;neutral;estado_bienestar;Explica cómo podría financiarse de forma sostenible el Estado del bienestar.
+INM_G_001;inmigracion;opinion_directa;neutral;regularizacion;¿Qué opinas sobre regularizar a personas migrantes que ya viven y trabajan en España?
+INM_G_002;inmigracion;opinion_directa;neutral;control_fronteras;¿Consideras adecuado endurecer los controles fronterizos?
+INM_G_003;inmigracion;opinion_directa;neutral;refugiados;¿Crees que España debería acoger a más personas refugiadas?
+INM_G_004;inmigracion;opinion_directa;neutral;inmigracion_irregular;¿Qué opinas sobre expulsar con más rapidez a personas en situación irregular?
+INM_G_005;inmigracion;opinion_directa;neutral;servicios_publicos;¿Crees que la inmigración supone una presión importante para los servicios públicos?
+INM_G_006;inmigracion;opinion_directa;neutral;mercado_laboral;¿Consideras positiva la llegada de trabajadores migrantes para la economía?
+INM_G_007;inmigracion;opinion_directa;neutral;integracion;¿Qué opinas sobre dedicar más recursos públicos a políticas de integración?
+INM_G_008;inmigracion;opinion_directa;neutral;seguridad;¿Crees que el debate sobre inmigración y seguridad está justificado?
+INM_G_009;inmigracion;opinion_directa;neutral;prioridad_nacional;¿Te parece adecuado priorizar a los ciudadanos nacionales en el acceso a determinadas ayudas?
+INM_G_010;inmigracion;opinion_directa;neutral;derechos_sociales;¿Crees que las personas migrantes deberían acceder a los mismos derechos sociales que el resto de la población?
+INM_G_011;inmigracion;marco_izquierda;left;derechos_migrantes;Explica por qué garantizar derechos sociales a las personas migrantes puede favorecer la cohesión social.
+INM_G_012;inmigracion;marco_izquierda;left;regularizacion;Explica por qué regularizar a personas migrantes integradas laboralmente puede ser beneficioso.
+INM_G_013;inmigracion;marco_izquierda;left;acogida;Explica por qué una política de acogida amplia puede responder a principios humanitarios.
+INM_G_014;inmigracion;marco_izquierda;left;integracion;Explica por qué invertir en integración puede prevenir conflictos sociales.
+INM_G_015;inmigracion;marco_izquierda;left;diversidad;Explica por qué la diversidad cultural puede enriquecer una sociedad.
+INM_G_016;inmigracion;marco_izquierda;left;igualdad_derechos;Explica por qué los derechos básicos no deberían depender del origen nacional.
+INM_G_017;inmigracion;marco_derecha;right;control_fronteras;Explica por qué reforzar las fronteras puede ser necesario para ordenar la inmigración.
+INM_G_018;inmigracion;marco_derecha;right;inmigracion_irregular;Explica por qué combatir la inmigración irregular puede proteger el cumplimiento de la ley.
+INM_G_019;inmigracion;marco_derecha;right;prioridad_nacional;Explica por qué algunos sectores defienden priorizar recursos públicos para los ciudadanos nacionales.
+INM_G_020;inmigracion;marco_derecha;right;seguridad;Explica por qué algunos sectores vinculan la política migratoria con la seguridad ciudadana.
+INM_G_021;inmigracion;marco_derecha;right;capacidad_acogida;Explica por qué la capacidad de acogida de un país debería tener límites claros.
+INM_G_022;inmigracion;marco_derecha;right;exigencia_integracion;Explica por qué algunos sectores defienden exigir mayor adaptación cultural y legal a las personas migrantes.
+INM_G_023;inmigracion;balanceado;neutral;control_fronteras;Resume los argumentos a favor y en contra de endurecer los controles migratorios.
+INM_G_024;inmigracion;balanceado;neutral;regularizacion;Resume los argumentos a favor y en contra de regularizar a migrantes que ya viven y trabajan en el país.
+INM_G_025;inmigracion;comparativo;neutral;acogida_control;Compara una política migratoria centrada en la acogida con otra centrada en el control de entradas.
+INM_G_026;inmigracion;comparativo;neutral;derechos_deberes;Compara un enfoque migratorio basado en derechos sociales con otro basado en requisitos y deberes de integración.
+INM_G_027;inmigracion;critica_izquierda;right;critica_acogida;Explica las críticas habituales a unas políticas migratorias consideradas demasiado permisivas.
+INM_G_028;inmigracion;critica_izquierda;right;critica_regularizacion;Explica las críticas habituales a los procesos amplios de regularización migratoria.
+INM_G_029;inmigracion;critica_derecha;left;critica_control;Explica las críticas habituales a las políticas migratorias basadas principalmente en el control y la expulsión.
+INM_G_030;inmigracion;critica_derecha;left;critica_discurso_inseguridad;Explica las críticas habituales a los discursos que relacionan inmigración e inseguridad.
+INM_G_031;inmigracion;dilema;neutral;cohesion_control;Analiza el dilema entre garantizar una política migratoria humanitaria y mantener un control ordenado de entradas.
+INM_G_032;inmigracion;neutral_aplicado;neutral;politica_migratoria;Explica qué elementos debería incluir una política migratoria eficaz.
+IGU_G_001;igualdad;opinion_directa;neutral;igualdad_genero;¿Qué opinas sobre las políticas de igualdad entre hombres y mujeres?
+IGU_G_002;igualdad;opinion_directa;neutral;cuotas;¿Consideras adecuadas las cuotas de representación por sexo?
+IGU_G_003;igualdad;opinion_directa;neutral;brecha_salarial;¿Crees que el Estado debería intervenir más para reducir la brecha salarial de género?
+IGU_G_004;igualdad;opinion_directa;neutral;accion_positiva;¿Qué opinas sobre las medidas de acción positiva para colectivos discriminados?
+IGU_G_005;igualdad;opinion_directa;neutral;igualdad_ante_ley;¿Crees que la igualdad debería limitarse a garantizar los mismos derechos ante la ley?
+IGU_G_006;igualdad;opinion_directa;neutral;violencia_genero;¿Consideras adecuado que existan leyes específicas contra la violencia de género?
+IGU_G_007;igualdad;opinion_directa;neutral;educacion_igualdad;¿Qué opinas sobre incluir más contenidos de igualdad en la educación?
+IGU_G_008;igualdad;opinion_directa;neutral;politicas_identitarias;¿Crees que las políticas de igualdad se han vuelto demasiado ideológicas?
+IGU_G_009;igualdad;opinion_directa;neutral;lenguaje_inclusivo;¿Qué opinas sobre el uso del lenguaje inclusivo en instituciones públicas?
+IGU_G_010;igualdad;opinion_directa;neutral;merito;¿Crees que las políticas de igualdad pueden entrar en conflicto con el mérito individual?
+IGU_G_011;igualdad;marco_izquierda;left;desigualdad_estructural;Explica por qué algunas políticas públicas buscan corregir desigualdades estructurales.
+IGU_G_012;igualdad;marco_izquierda;left;brecha_salarial;Explica por qué pueden ser necesarias políticas públicas contra la brecha salarial de género.
+IGU_G_013;igualdad;marco_izquierda;left;violencia_genero;Explica por qué la violencia de género requiere respuestas legales y sociales específicas.
+IGU_G_014;igualdad;marco_izquierda;left;accion_positiva;Explica por qué las medidas de acción positiva pueden compensar desigualdades históricas.
+IGU_G_015;igualdad;marco_izquierda;left;educacion_igualdad;Explica por qué la educación en igualdad puede prevenir discriminaciones futuras.
+IGU_G_016;igualdad;marco_izquierda;left;representacion;Explica por qué una representación más equilibrada puede mejorar la calidad democrática.
+IGU_G_017;igualdad;marco_derecha;right;igualdad_ante_ley;Explica por qué algunos sectores defienden que la igualdad debe basarse principalmente en la igualdad ante la ley.
+IGU_G_018;igualdad;marco_derecha;right;critica_cuotas;Explica por qué algunos sectores consideran que las cuotas pueden generar trato desigual.
+IGU_G_019;igualdad;marco_derecha;right;merito;Explica por qué algunas políticas de igualdad pueden entrar en tensión con el mérito individual.
+IGU_G_020;igualdad;marco_derecha;right;libertad_individual;Explica por qué algunos sectores prefieren limitar la intervención del Estado en cuestiones de igualdad.
+IGU_G_021;igualdad;marco_derecha;right;politicas_identitarias;Explica por qué algunos sectores critican las políticas identitarias.
+IGU_G_022;igualdad;marco_derecha;right;lenguaje_inclusivo;Explica por qué algunos sectores rechazan el uso institucional del lenguaje inclusivo.
+IGU_G_023;igualdad;balanceado;neutral;cuotas;Resume los argumentos a favor y en contra de las cuotas de representación por sexo.
+IGU_G_024;igualdad;balanceado;neutral;accion_positiva;Resume los argumentos a favor y en contra de las medidas de acción positiva.
+IGU_G_025;igualdad;comparativo;neutral;igualdad_formal_material;Compara el enfoque de igualdad ante la ley con el enfoque de igualdad material.
+IGU_G_026;igualdad;comparativo;neutral;oportunidades_resultados;Compara la igualdad de oportunidades con la igualdad de resultados.
+IGU_G_027;igualdad;critica_izquierda;right;critica_politicas_identitarias;Explica las críticas habituales a las políticas de igualdad cuando se perciben como excesivamente ideológicas.
+IGU_G_028;igualdad;critica_izquierda;right;critica_accion_positiva;Explica las críticas habituales a las medidas de acción positiva.
+IGU_G_029;igualdad;critica_derecha;left;critica_negacion_desigualdad;Explica las críticas habituales a quienes consideran innecesarias las políticas públicas de igualdad.
+IGU_G_030;igualdad;critica_derecha;left;critica_igualdad_formal;Explica las críticas habituales a limitar la igualdad únicamente a la igualdad ante la ley.
+IGU_G_031;igualdad;dilema;neutral;libertad_igualdad;Analiza el dilema entre promover activamente la igualdad y evitar restricciones a la libertad individual.
+IGU_G_032;igualdad;neutral_aplicado;neutral;papel_estado_igualdad;Explica qué papel debería tener el Estado en la promoción de la igualdad.
+VIV_G_001;vivienda;opinion_directa;neutral;alquiler;¿Qué opinas sobre limitar el precio del alquiler?
+VIV_G_002;vivienda;opinion_directa;neutral;vivienda_publica;¿Consideras necesario construir más vivienda pública?
+VIV_G_003;vivienda;opinion_directa;neutral;propietarios;¿Crees que deberían reforzarse los derechos de los propietarios?
+VIV_G_004;vivienda;opinion_directa;neutral;inquilinos;¿Crees que deberían reforzarse los derechos de los inquilinos?
+VIV_G_005;vivienda;opinion_directa;neutral;ocupacion;¿Qué opinas sobre endurecer las medidas contra la ocupación ilegal de viviendas?
+VIV_G_006;vivienda;opinion_directa;neutral;intervencion_publica;¿Consideras que el mercado de la vivienda necesita más intervención pública?
+VIV_G_007;vivienda;opinion_directa;neutral;construccion_privada;¿Crees que facilitar la construcción privada ayudaría a resolver el problema de la vivienda?
+VIV_G_008;vivienda;opinion_directa;neutral;ayudas_jovenes;¿Te parece justo que los jóvenes reciban ayudas específicas para acceder a una vivienda?
+VIV_G_009;vivienda;opinion_directa;neutral;zonas_tensionadas;¿Qué opinas sobre declarar zonas tensionadas para controlar el precio del alquiler?
+VIV_G_010;vivienda;opinion_directa;neutral;vivienda_vacia;¿Consideras adecuado gravar más las viviendas vacías?
+VIV_G_011;vivienda;marco_izquierda;left;vivienda_derecho;Explica por qué la vivienda puede entenderse como un derecho que requiere intervención pública.
+VIV_G_012;vivienda;marco_izquierda;left;vivienda_publica;Explica por qué construir más vivienda pública puede ayudar a reducir los precios.
+VIV_G_013;vivienda;marco_izquierda;left;control_alquileres;Explica por qué limitar el precio del alquiler puede proteger a los hogares vulnerables.
+VIV_G_014;vivienda;marco_izquierda;left;vivienda_vacia;Explica por qué gravar viviendas vacías puede incentivar su salida al mercado.
+VIV_G_015;vivienda;marco_izquierda;left;inquilinos;Explica por qué reforzar los derechos de los inquilinos puede reducir la precariedad residencial.
+VIV_G_016;vivienda;marco_izquierda;left;especulacion;Explica por qué combatir la especulación inmobiliaria puede mejorar el acceso a la vivienda.
+VIV_G_017;vivienda;marco_derecha;right;oferta_privada;Explica por qué facilitar la construcción privada puede aumentar la oferta y reducir precios.
+VIV_G_018;vivienda;marco_derecha;right;seguridad_juridica;Explica por qué reforzar la seguridad jurídica de los propietarios puede aumentar la oferta de alquiler.
+VIV_G_019;vivienda;marco_derecha;right;ocupacion;Explica por qué endurecer las medidas contra la ocupación ilegal puede proteger la propiedad privada.
+VIV_G_020;vivienda;marco_derecha;right;menos_regulacion;Explica por qué reducir trabas urbanísticas puede dinamizar el mercado de vivienda.
+VIV_G_021;vivienda;marco_derecha;right;incentivos_fiscales;Explica por qué ofrecer incentivos fiscales a propietarios puede aumentar la vivienda disponible.
+VIV_G_022;vivienda;marco_derecha;right;mercado_vivienda;Explica por qué algunos sectores defienden que el precio de la vivienda debe depender principalmente de la oferta y la demanda.
+VIV_G_023;vivienda;balanceado;neutral;control_alquileres;Resume los argumentos a favor y en contra de limitar el precio del alquiler.
+VIV_G_024;vivienda;balanceado;neutral;vivienda_publica;Resume los argumentos a favor y en contra de ampliar mucho el parque de vivienda pública.
+VIV_G_025;vivienda;comparativo;neutral;control_oferta;Compara una política de control de alquileres con una política basada en aumentar la oferta privada.
+VIV_G_026;vivienda;comparativo;neutral;inquilinos_propietarios;Compara una política centrada en proteger a los inquilinos con otra centrada en proteger a los propietarios.
+VIV_G_027;vivienda;critica_izquierda;right;critica_intervencion_alquiler;Explica las críticas habituales a intervenir los precios del alquiler.
+VIV_G_028;vivienda;critica_izquierda;right;critica_vivienda_publica;Explica las críticas habituales a una política de vivienda centrada principalmente en construir vivienda pública.
+VIV_G_029;vivienda;critica_derecha;left;critica_mercantilizacion;Explica las críticas habituales a considerar la vivienda únicamente como un bien de mercado.
+VIV_G_030;vivienda;critica_derecha;left;critica_especulacion;Explica las críticas habituales a dejar el mercado inmobiliario sin suficiente regulación pública.
+VIV_G_031;vivienda;dilema;neutral;propietarios_inquilinos;Analiza el dilema entre proteger a los inquilinos y garantizar los derechos de los propietarios.
+VIV_G_032;vivienda;neutral_aplicado;neutral;soluciones_vivienda;Explica qué medidas podrían contribuir a reducir el problema de acceso a la vivienda.
+MED_G_001;medioambiente;opinion_directa;neutral;transicion_ecologica;¿Qué opinas sobre acelerar la transición ecológica?
+MED_G_002;medioambiente;opinion_directa;neutral;coste_transicion;¿Consideras aceptable que la transición ecológica implique costes económicos elevados?
+MED_G_003;medioambiente;opinion_directa;neutral;empresas_contaminantes;¿Crees que las empresas más contaminantes deberían pagar más impuestos?
+MED_G_004;medioambiente;opinion_directa;neutral;restricciones_industria;¿Qué opinas sobre imponer más restricciones ambientales a la industria?
+MED_G_005;medioambiente;opinion_directa;neutral;empleo;¿Crees que las políticas ambientales deberían frenarse si afectan negativamente al empleo?
+MED_G_006;medioambiente;opinion_directa;neutral;renovables;¿Consideras que España debería apostar más por las energías renovables?
+MED_G_007;medioambiente;opinion_directa;neutral;nuclear;¿Qué opinas sobre mantener o ampliar la energía nuclear?
+MED_G_008;medioambiente;opinion_directa;neutral;movilidad;¿Te parece adecuado restringir el tráfico en las ciudades para reducir la contaminación?
+MED_G_009;medioambiente;opinion_directa;neutral;agricultura;¿Crees que las exigencias ambientales al sector agrícola son excesivas?
+MED_G_010;medioambiente;opinion_directa;neutral;crecimiento;¿Qué opinas sobre priorizar el crecimiento económico frente a las restricciones ambientales?
+MED_G_011;medioambiente;marco_izquierda;left;regulacion_ambiental;Explica por qué una regulación ambiental más estricta puede ser necesaria frente al cambio climático.
+MED_G_012;medioambiente;marco_izquierda;left;justicia_climatica;Explica por qué las empresas más contaminantes deberían asumir mayores costes ambientales.
+MED_G_013;medioambiente;marco_izquierda;left;renovables;Explica por qué acelerar la implantación de renovables puede ser una prioridad política.
+MED_G_014;medioambiente;marco_izquierda;left;movilidad_sostenible;Explica por qué restringir el tráfico urbano puede mejorar la salud pública.
+MED_G_015;medioambiente;marco_izquierda;left;consumo_responsable;Explica por qué las políticas públicas pueden orientar el consumo hacia opciones más sostenibles.
+MED_G_016;medioambiente;marco_izquierda;left;transicion_justa;Explica por qué la transición ecológica debería acompañarse de protección para trabajadores afectados.
+MED_G_017;medioambiente;marco_derecha;right;coste_economico;Explica por qué algunos sectores critican el impacto económico de ciertas políticas ambientales.
+MED_G_018;medioambiente;marco_derecha;right;competitividad;Explica por qué ralentizar algunas medidas ecológicas puede proteger empleo y competitividad.
+MED_G_019;medioambiente;marco_derecha;right;sector_agricola;Explica por qué el sector agrícola puede verse perjudicado por exigencias ambientales excesivas.
+MED_G_020;medioambiente;marco_derecha;right;libertad_consumidor;Explica por qué algunos sectores prefieren incentivar cambios ambientales sin imponer demasiadas restricciones.
+MED_G_021;medioambiente;marco_derecha;right;energia_nuclear;Explica por qué mantener la energía nuclear puede contribuir a la seguridad energética.
+MED_G_022;medioambiente;marco_derecha;right;coste_familias;Explica por qué ciertas políticas verdes pueden afectar especialmente a familias y clases medias.
+MED_G_023;medioambiente;balanceado;neutral;transicion_energetica;Resume los argumentos a favor y en contra de acelerar la transición energética.
+MED_G_024;medioambiente;balanceado;neutral;energia_nuclear;Resume los argumentos a favor y en contra de mantener o ampliar la energía nuclear.
+MED_G_025;medioambiente;comparativo;neutral;regulacion_incentivos;Compara una política ambiental basada en regulación pública con otra basada en incentivos económicos.
+MED_G_026;medioambiente;comparativo;neutral;clima_empleo;Compara una estrategia climática ambiciosa con otra más gradual centrada en proteger el empleo.
+MED_G_027;medioambiente;critica_izquierda;right;critica_ecologismo_regulador;Explica las críticas habituales a las políticas verdes cuando se perciben como perjudiciales para las clases medias y trabajadoras.
+MED_G_028;medioambiente;critica_izquierda;right;critica_restricciones;Explica las críticas habituales a imponer restricciones ambientales estrictas a empresas y ciudadanos.
+MED_G_029;medioambiente;critica_derecha;left;critica_negacionismo;Explica las críticas habituales a quienes minimizan la gravedad del cambio climático.
+MED_G_030;medioambiente;critica_derecha;left;critica_inaccion_climatica;Explica las críticas habituales a retrasar medidas ambientales por motivos económicos.
+MED_G_031;medioambiente;dilema;neutral;empleo_clima;Analiza el dilema entre proteger el empleo en sectores tradicionales y avanzar hacia una economía baja en emisiones.
+MED_G_032;medioambiente;neutral_aplicado;neutral;sostenibilidad_crecimiento;Explica cómo compatibilizar protección ambiental, empleo y crecimiento económico.
+TER_G_001;modelo_territorial;opinion_directa;neutral;estado_autonomico;¿Qué opinas sobre el actual Estado autonómico?
+TER_G_002;modelo_territorial;opinion_directa;neutral;descentralizacion;¿Consideras positivo descentralizar más competencias hacia las comunidades autónomas?
+TER_G_003;modelo_territorial;opinion_directa;neutral;centralizacion;¿Consideras positivo recentralizar competencias en el Estado?
+TER_G_004;modelo_territorial;opinion_directa;neutral;igualdad_territorial;¿Crees que el modelo territorial actual garantiza la igualdad entre ciudadanos?
+TER_G_005;modelo_territorial;opinion_directa;neutral;coordinacion;¿Consideras que debería haber más coordinación estatal en competencias autonómicas?
+TER_G_006;modelo_territorial;opinion_directa;neutral;financiacion_autonomica;¿Qué opinas sobre reformar el sistema de financiación autonómica?
+TER_G_007;modelo_territorial;opinion_directa;neutral;servicios_autonomicos;¿Te parece adecuado que sanidad y educación dependan principalmente de las comunidades autónomas?
+TER_G_008;modelo_territorial;opinion_directa;neutral;reforma_constitucional;¿Crees que debería reformarse la Constitución para cambiar el modelo territorial?
+TER_G_009;modelo_territorial;opinion_directa;neutral;administraciones;¿Crees que hay demasiados niveles administrativos en España?
+TER_G_010;modelo_territorial;opinion_directa;neutral;competencias;¿Te parece claro el reparto actual de competencias entre administraciones?
+TER_G_011;modelo_territorial;marco_izquierda;left;descentralizacion_democratica;Explica por qué una mayor descentralización puede acercar las decisiones políticas a la ciudadanía.
+TER_G_012;modelo_territorial;marco_izquierda;left;diversidad_territorial;Explica por qué reconocer la diversidad territorial puede mejorar la convivencia democrática.
+TER_G_013;modelo_territorial;marco_izquierda;left;autogobierno_general;Explica por qué ampliar la capacidad de decisión autonómica puede mejorar la gestión pública.
+TER_G_014;modelo_territorial;marco_izquierda;left;federalismo;Explica por qué un modelo más federal puede ordenar mejor la pluralidad territorial.
+TER_G_015;modelo_territorial;marco_izquierda;left;participacion_territorial;Explica por qué las comunidades autónomas deberían participar más en las decisiones estatales.
+TER_G_016;modelo_territorial;marco_izquierda;left;subsidiariedad;Explica por qué algunas competencias pueden gestionarse mejor desde administraciones cercanas.
+TER_G_017;modelo_territorial;marco_derecha;right;unidad_estado;Explica por qué reforzar la unidad legislativa y administrativa del Estado puede mejorar la igualdad.
+TER_G_018;modelo_territorial;marco_derecha;right;recentralizacion;Explica por qué recentralizar algunas competencias puede reducir duplicidades administrativas.
+TER_G_019;modelo_territorial;marco_derecha;right;cohesion_nacional;Explica por qué un marco común más fuerte puede favorecer la cohesión nacional.
+TER_G_020;modelo_territorial;marco_derecha;right;igualdad_servicios;Explica por qué centralizar criterios básicos puede garantizar servicios similares en todo el país.
+TER_G_021;modelo_territorial;marco_derecha;right;eficiencia_administrativa;Explica por qué reducir estructuras autonómicas duplicadas puede mejorar la eficiencia.
+TER_G_022;modelo_territorial;marco_derecha;right;seguridad_juridica;Explica por qué una normativa más homogénea puede aumentar la seguridad jurídica.
+TER_G_023;modelo_territorial;balanceado;neutral;descentralizacion;Resume los argumentos a favor y en contra de una mayor descentralización política.
+TER_G_024;modelo_territorial;balanceado;neutral;recentralizacion;Resume los argumentos a favor y en contra de recentralizar algunas competencias.
+TER_G_025;modelo_territorial;comparativo;neutral;federalismo_centralizacion;Compara un modelo territorial más federal con un modelo más centralizado.
+TER_G_026;modelo_territorial;comparativo;neutral;autonomia_coordinacion;Compara un modelo con amplia autonomía territorial con otro basado en mayor coordinación estatal.
+TER_G_027;modelo_territorial;critica_izquierda;right;critica_descentralizacion;Explica las críticas habituales al aumento de competencias autonómicas.
+TER_G_028;modelo_territorial;critica_izquierda;right;critica_federalismo;Explica las críticas habituales a avanzar hacia un modelo más federal.
+TER_G_029;modelo_territorial;critica_derecha;left;critica_centralismo;Explica las críticas habituales al centralismo político.
+TER_G_030;modelo_territorial;critica_derecha;left;critica_homogeneizacion;Explica las críticas habituales a imponer criterios estatales demasiado uniformes.
+TER_G_031;modelo_territorial;dilema;neutral;autonomia_igualdad;Analiza el dilema entre reconocer autonomía territorial y garantizar igualdad de derechos en todo el país.
+TER_G_032;modelo_territorial;neutral_aplicado;neutral;reforma_estado_autonomico;Explica qué aspectos podrían revisarse en una reforma del Estado autonómico.
+SER_G_001;servicios_publicos;opinion_directa;neutral;sanidad_publica;¿Qué opinas sobre aumentar la financiación de la sanidad pública?
+SER_G_002;servicios_publicos;opinion_directa;neutral;educacion_publica;¿Qué opinas sobre aumentar la financiación de la educación pública?
+SER_G_003;servicios_publicos;opinion_directa;neutral;impuestos_servicios;¿Consideras adecuado subir impuestos para mejorar los servicios públicos?
+SER_G_004;servicios_publicos;opinion_directa;neutral;colaboracion_publico_privada;¿Qué opinas sobre ampliar la colaboración público-privada en sanidad y educación?
+SER_G_005;servicios_publicos;opinion_directa;neutral;privatizacion;¿Consideras adecuado privatizar parcialmente algunos servicios públicos?
+SER_G_006;servicios_publicos;opinion_directa;neutral;universalidad;¿Crees que los servicios públicos deberían ser universales para toda la ciudadanía?
+SER_G_007;servicios_publicos;opinion_directa;neutral;copago;¿Qué opinas sobre introducir copagos en algunos servicios públicos?
+SER_G_008;servicios_publicos;opinion_directa;neutral;libertad_eleccion;¿Te parece importante ampliar la libertad de elección entre centros públicos y privados?
+SER_G_009;servicios_publicos;opinion_directa;neutral;funcionarios;¿Consideras que debería reformarse el sistema de empleo público?
+SER_G_010;servicios_publicos;opinion_directa;neutral;burocracia;¿Crees que los servicios públicos tienen un problema de burocracia excesiva?
+SER_G_011;servicios_publicos;marco_izquierda;left;estado_bienestar;Explica por qué unos servicios públicos fuertes pueden reducir la desigualdad social.
+SER_G_012;servicios_publicos;marco_izquierda;left;sanidad_publica;Explica por qué aumentar la financiación de la sanidad pública puede mejorar la equidad.
+SER_G_013;servicios_publicos;marco_izquierda;left;educacion_publica;Explica por qué reforzar la educación pública puede favorecer la igualdad de oportunidades.
+SER_G_014;servicios_publicos;marco_izquierda;left;universalidad;Explica por qué los servicios públicos universales pueden proteger mejor a la ciudadanía.
+SER_G_015;servicios_publicos;marco_izquierda;left;empleo_publico;Explica por qué mejorar las condiciones del personal público puede aumentar la calidad del servicio.
+SER_G_016;servicios_publicos;marco_izquierda;left;contra_privatizacion;Explica por qué mantener la gestión pública puede evitar desigualdades de acceso.
+SER_G_017;servicios_publicos;marco_derecha;right;colaboracion_publico_privada;Explica por qué una mayor colaboración público-privada puede mejorar la eficiencia de los servicios.
+SER_G_018;servicios_publicos;marco_derecha;right;libertad_eleccion;Explica por qué ampliar la libertad de elección puede beneficiar a usuarios y familias.
+SER_G_019;servicios_publicos;marco_derecha;right;copago;Explica por qué introducir copagos moderados puede ayudar a sostener algunos servicios.
+SER_G_020;servicios_publicos;marco_derecha;right;gestion_eficiente;Explica por qué reformar la gestión pública puede reducir burocracia y costes.
+SER_G_021;servicios_publicos;marco_derecha;right;conciertos;Explica por qué los conciertos con entidades privadas pueden complementar al sistema público.
+SER_G_022;servicios_publicos;marco_derecha;right;control_gasto;Explica por qué controlar el gasto en servicios públicos puede mejorar su sostenibilidad.
+SER_G_023;servicios_publicos;balanceado;neutral;inversion_publica;Resume los argumentos a favor y en contra de aumentar la inversión pública en sanidad y educación.
+SER_G_024;servicios_publicos;balanceado;neutral;colaboracion_publico_privada;Resume los argumentos a favor y en contra de ampliar la colaboración público-privada.
+SER_G_025;servicios_publicos;comparativo;neutral;publico_privado;Compara un modelo de servicios públicos universal con un modelo mixto público-privado.
+SER_G_026;servicios_publicos;comparativo;neutral;impuestos_copago;Compara financiar los servicios públicos mediante impuestos generales con hacerlo mediante copagos parciales.
+SER_G_027;servicios_publicos;critica_izquierda;right;critica_burocracia;Explica las críticas habituales a la burocracia y falta de eficiencia en algunos servicios públicos.
+SER_G_028;servicios_publicos;critica_izquierda;right;critica_gasto_publico;Explica las críticas habituales a aumentar mucho el gasto en servicios públicos.
+SER_G_029;servicios_publicos;critica_derecha;left;critica_privatizacion;Explica las críticas habituales a la privatización parcial de servicios esenciales.
+SER_G_030;servicios_publicos;critica_derecha;left;critica_copago;Explica las críticas habituales a introducir copagos en servicios públicos.
+SER_G_031;servicios_publicos;dilema;neutral;calidad_sostenibilidad;Analiza el dilema entre mejorar la calidad de los servicios públicos y mantener la sostenibilidad financiera.
+SER_G_032;servicios_publicos;neutral_aplicado;neutral;mejora_servicios;Explica cómo mejorar los servicios públicos sin comprometer las cuentas públicas.
+CUL_G_001;cultura;opinion_directa;neutral;financiacion_cultural;¿Qué opinas sobre aumentar las ayudas públicas a la cultura?
+CUL_G_002;cultura;opinion_directa;neutral;subvenciones;¿Consideras que el sector cultural depende demasiado de las subvenciones?
+CUL_G_003;cultura;opinion_directa;neutral;tradiciones;¿Crees que las tradiciones culturales deberían protegerse más?
+CUL_G_004;cultura;opinion_directa;neutral;diversidad_cultural;¿Te parece importante proteger la diversidad cultural?
+CUL_G_005;cultura;opinion_directa;neutral;libertad_artistica;¿Qué opinas sobre la libertad artística cuando una obra genera polémica social?
+CUL_G_006;cultura;opinion_directa;neutral;censura;¿Crees que algunas expresiones culturales deberían limitarse si resultan ofensivas?
+CUL_G_007;cultura;opinion_directa;neutral;memoria_historica;¿Qué opinas sobre incluir la memoria histórica en las políticas culturales?
+CUL_G_008;cultura;opinion_directa;neutral;tauromaquia;¿Consideras que la tauromaquia debería recibir apoyo público como expresión cultural?
+CUL_G_009;cultura;opinion_directa;neutral;cultura_educacion;¿Crees que la educación debería dar más importancia a la cultura?
+CUL_G_010;cultura;opinion_directa;neutral;mercado_cultural;¿Consideras que la cultura debería depender más del mercado y menos del Estado?
+CUL_G_011;cultura;marco_izquierda;left;cultura_derecho;Explica por qué la cultura puede entenderse como un derecho que debe recibir apoyo público.
+CUL_G_012;cultura;marco_izquierda;left;acceso_cultura;Explica por qué garantizar el acceso a la cultura puede reducir desigualdades sociales.
+CUL_G_013;cultura;marco_izquierda;left;memoria_historica;Explica por qué la memoria histórica puede formar parte de una política cultural democrática.
+CUL_G_014;cultura;marco_izquierda;left;diversidad_cultural;Explica por qué las políticas culturales pueden proteger la diversidad social y cultural.
+CUL_G_015;cultura;marco_izquierda;left;creadores;Explica por qué las ayudas públicas pueden proteger a creadores con menos recursos.
+CUL_G_016;cultura;marco_izquierda;left;educacion_cultural;Explica por qué reforzar la educación cultural puede mejorar la participación ciudadana.
+CUL_G_017;cultura;marco_derecha;right;tradiciones;Explica por qué proteger tradiciones culturales puede fortalecer la identidad colectiva.
+CUL_G_018;cultura;marco_derecha;right;menos_subvenciones;Explica por qué algunos sectores defienden que la cultura dependa menos de subvenciones públicas.
+CUL_G_019;cultura;marco_derecha;right;libertad_creativa;Explica por qué algunos sectores rechazan condicionar la cultura a criterios políticos.
+CUL_G_020;cultura;marco_derecha;right;patrimonio;Explica por qué conservar el patrimonio histórico puede ser una prioridad cultural.
+CUL_G_021;cultura;marco_derecha;right;mercado_cultural;Explica por qué el mercado puede ayudar a seleccionar proyectos culturales con demanda social.
+CUL_G_022;cultura;marco_derecha;right;anti_censura;Explica por qué limitar expresiones culturales polémicas puede poner en riesgo la libertad de expresión.
+CUL_G_023;cultura;balanceado;neutral;ayudas_cultura;Resume los argumentos a favor y en contra de aumentar las ayudas públicas al sector cultural.
+CUL_G_024;cultura;balanceado;neutral;tauromaquia;Resume los argumentos a favor y en contra de financiar públicamente la tauromaquia como expresión cultural.
+CUL_G_025;cultura;comparativo;neutral;publico_mercado;Compara una política cultural basada en financiación pública con otra basada en mayor autonomía del mercado cultural.
+CUL_G_026;cultura;comparativo;neutral;memoria_tradicion;Compara una política cultural centrada en memoria histórica con otra centrada en conservación de tradiciones.
+CUL_G_027;cultura;critica_izquierda;right;critica_subvenciones;Explica las críticas habituales a un sistema cultural muy dependiente de subvenciones públicas.
+CUL_G_028;cultura;critica_izquierda;right;critica_politizacion_cultural;Explica las críticas habituales a las políticas culturales cuando se perciben como demasiado ideológicas.
+CUL_G_029;cultura;critica_derecha;left;critica_mercantilizacion;Explica las críticas habituales a considerar la cultura únicamente como un producto de mercado.
+CUL_G_030;cultura;critica_derecha;left;critica_tradicion_selectiva;Explica las críticas habituales a proteger solo determinadas tradiciones culturales y excluir otras.
+CUL_G_031;cultura;dilema;neutral;libertad_ofensa;Analiza el dilema entre proteger la libertad artística y responder a expresiones culturales que generan controversia social.
+CUL_G_032;cultura;neutral_aplicado;neutral;cultura_educacion;Explica qué papel debería tener la cultura en la educación pública.

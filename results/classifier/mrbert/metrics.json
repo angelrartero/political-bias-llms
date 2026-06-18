@@ -1,0 +1,64 @@
+{
+    "accuracy": 0.8092626447288239,
+    "precision_macro": 0.8103952332788644,
+    "recall_macro": 0.8089925426976381,
+    "f1_macro": 0.8094903211684992,
+    "precision_weighted": 0.8094159908025486,
+    "recall_weighted": 0.8092626447288239,
+    "f1_weighted": 0.8091193545845756,
+    "model_name": "BSC-LT/MrBERT-es",
+    "num_labels": 5,
+    "label_mapping": {
+        "center": 0,
+        "far_left": 1,
+        "far_right": 2,
+        "left": 3,
+        "right": 4
+    },
+    "best_model_checkpoint": "C:\\Users\\Cliente\\Desktop\\Universidad\\TFG\\tfg-sesgo-politico\\Nuevo Dataset\\models\\parliament_multiclass\\mrbert-v2-5class-27-04\\checkpoint-2874",
+    "classification_report": {
+        "center": {
+            "precision": 0.8101851851851852,
+            "recall": 0.7882882882882883,
+            "f1-score": 0.7990867579908676,
+            "support": 444.0
+        },
+        "far_left": {
+            "precision": 0.8397976391231029,
+            "recall": 0.8327759197324415,
+            "f1-score": 0.836272040302267,
+            "support": 598.0
+        },
+        "far_right": {
+            "precision": 0.7862165963431786,
+            "recall": 0.7985714285714286,
+            "f1-score": 0.7923458540042523,
+            "support": 700.0
+        },
+        "left": {
+            "precision": 0.8067444876783398,
+            "recall": 0.8474114441416893,
+            "f1-score": 0.826578073089701,
+            "support": 734.0
+        },
+        "right": {
+            "precision": 0.8090322580645162,
+            "recall": 0.7779156327543424,
+            "f1-score": 0.793168880455408,
+            "support": 806.0
+        },
+        "accuracy": 0.8092626447288239,
+        "macro avg": {
+            "precision": 0.8103952332788644,
+            "recall": 0.8089925426976381,
+            "f1-score": 0.8094903211684992,
+            "support": 3282.0
+        },
+        "weighted avg": {
+            "precision": 0.8094159908025486,
+            "recall": 0.8092626447288239,
+            "f1-score": 0.8091193545845756,
+            "support": 3282.0
+        }
+    }
+}

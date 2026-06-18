@@ -1,0 +1,9 @@
+{
+    "label_mapping": {
+        "center": 0,
+        "far_left": 1,
+        "far_right": 2,
+        "left": 3,
+        "right": 4
+    }
+}

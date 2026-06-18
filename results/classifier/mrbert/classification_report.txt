@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+      center       0.81      0.79      0.80       444
+    far_left       0.84      0.83      0.84       598
+   far_right       0.79      0.80      0.79       700
+        left       0.81      0.85      0.83       734
+       right       0.81      0.78      0.79       806
+
+    accuracy                           0.81      3282
+   macro avg       0.81      0.81      0.81      3282
+weighted avg       0.81      0.81      0.81      3282
